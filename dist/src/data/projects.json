@@ -1,0 +1,106 @@
+[
+  {
+    "title": "Website Marketing",
+    "imageSrc": "projects/project1.png",
+    "description": "Create a website to advertise your dream business using WIX as your CMS ",
+    "skills": ["Wix"],
+    "source": "https://gpay490.wixsite.com/website-2"
+  },
+  {
+    "title": "Website Marketing",
+    "imageSrc": "projects/project2.png",
+    "description": "Create a portfolio containing personal photography work using Google Sites as a CMS with an attractive layout ",
+    "skills": ["Google Sites"],
+    "source": "https://sites.google.com/view/websitedhearahma/beranda"
+  },
+  {
+    "title": "Website Marketing",
+    "imageSrc": "projects/project4.png",
+    "description": "Create a business website for MSMEs using Google Sites as a CMS",
+    "skills": ["Google Sites"],
+    "source": "https://sites.google.com/view/cilok-anti-galau/home?authuser=0"
+  },
+  {
+    "title": "Video Adverstising",
+    "imageSrc": "projects/project3.png",
+    "description": "Make videos to promote MSME products with interesting voice shots, sound effects and voice overs",
+    "skills": ["Capcut"],
+    "source": "https://drive.google.com/file/d/1DT0gjbWnxs5GoXTpCf8m-q1LddStpmcK/view"
+  },
+  {
+    "title": "Video Adverstising",
+    "imageSrc": "projects/project5.png",
+    "description": "Create videos to promote Dkriuk fast food products with interesting votage shots",
+    "skills": ["Capcut"],
+    "source": "https://www.instagram.com/reel/CsWSguDh8I0/?"
+  },
+  {
+    "title": "Artikel",
+    "imageSrc": "projects/artikel1.png",
+    "description": "Create articles informative and interesting related to the destination travel or other relevant topics. The articles created are of various types informative, recommendatory, tips and promotions with a purpose to attract readers' interest and expand reach audience.",
+    "skills": ["Wordpress"],
+    "source": "https://kilikiliadventure.com/explore-keindahan-pantai-di-geopark-ciletuh-sukabumi-amazing/ "
+  },
+  {
+    "title": "Artikel",
+    "imageSrc": "projects/artikel2.png",
+    "description": "Create articles informative and interesting related to the destination travel or other relevant topics. The articles created are of various types informative, recommendatory, tips and promotions with a purpose to attract readers' interest and expand reach audience.",
+    "skills": ["Wordpress"],
+    "source": "https://kilikiliadventure.com/tours/bandung-lembang-2d1n/"
+  },
+
+  {
+    "title": "Google Ads",
+    "imageSrc": "projects/googleads1.png",
+    "description": "This project focuses on creating effective Google Ads advertising campaigns to increase visibility and conversions. The main goal of this project is to optimize ads to appear in front of the right audience, using relevant keywords, persuasive ad text, and appropriate landing pages.",
+    "skills": ["Canva"]
+  },
+  {
+    "title": "Google Ads",
+    "imageSrc": "projects/googleads2.png",
+    "description": "This project focuses on creating effective Google Ads advertising campaigns to increase visibility and conversions. The main goal of this project is to optimize ads to appear in front of the right audience, using relevant keywords, persuasive ad text, and appropriate landing pages.",
+    "skills": ["Canva"]
+  },
+  {
+    "title": "Input Produk",
+    "imageSrc": "projects/input_produk.jpg",
+    "description": "Inputting products on the website involves arranging and formatting content to suit layout location and company standards. On  website, there is a display details option which contains availability and unavailability features in the package, description containing an overview From the tourist destination you are going to, the itinerary contains a rundown or schedule of activities during the tour, terms and conditions contains terms and conditions, and photos contain pictures of the tourist destination you are going to are interesting consumer.",
+    "skills": ["Wordpress"],
+    "source": "https://kilikiliadventure.com"
+  },
+  {
+    "title": "Instagram Feeds",
+    "imageSrc": "projects/igfeed1.jpg",
+    "description": "Create an attractive Instagram feed, the goal is to create a harmonious and planned visual appearance through choosing the right theme, color palette and design style. In addition, this project also includes content planning to ensure the feed is always active and relevant, taking into account aesthetic aspects and audience engagement.",
+    "skills": ["Canva"],
+    "source": "https://www.instagram.com/p/C2hWvjeSjpc/?igsh=NHd3NGQ0NXZjd25s"
+  },
+  {
+    "title": "Instagram Feeds",
+    "imageSrc": "projects/igfeed2.jpg",
+    "description": "Create an attractive Instagram feed, the goal is to create a harmonious and planned visual appearance through choosing the right theme, color palette and design style. In addition, this project also includes content planning to ensure the feed is always active and relevant, taking into account aesthetic aspects and audience engagement.",
+    "skills": ["Canva"],
+    "source": "https://www.instagram.com/p/C2pE89yyfJl/?igsh=Y2o0aGUxZXozcnRi"
+  },
+  {
+    "title": "Instagram Reels",
+    "imageSrc": "projects/igreels1.jpg",
+    "description": "This project focuses on creating creative and interesting Instagram Reels to increase engagement and audience reach. The goal is to produce short video content that is relevant, entertaining, and in accordance with the theme or brand being promoted.",
+    "skills": ["Canva"],
+    "source": "https://www.instagram.com/reel/C2wbugJyvKu/?igsh=MThhM2dieTFnMDdqaA=="
+  },
+  {
+    "title": "Instagram Reels",
+    "imageSrc": "projects/igreels2.jpg",
+    "description": "This project focuses on creating creative and interesting Instagram Reels to increase engagement and audience reach. The goal is to produce short video content that is relevant, entertaining, and in accordance with the theme or brand being promoted.",
+    "skills": ["Canva"],
+    "source": "https://www.instagram.com/reel/C3hYWRay2xf/?igsh=NzhqNWF6ZGc5ZWZr"
+  },
+  {
+    "title": "Copy Writer",
+    "imageSrc": "projects/copywriter.jpg",
+    "description": "This project aims to create effective and persuasive copywriting content, both for digital marketing, advertising and brand communication purposes. The main focus is to produce text that attracts attention, is clear, and is able to communicate the main message in a targeted manner.",
+    "skills": ["Word"],
+    "source": "https://www.instagram.com/p/C3PWAmAyqbF/?igsh=dGR5czNzNjE3M3Rk"
+  }
+]

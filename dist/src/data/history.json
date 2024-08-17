@@ -1,0 +1,42 @@
+[
+  {
+    "role": "SEO Content Writer",
+    "organisation": "Kili Kili Adventure",
+    "startDate": "September 2023  ",
+    "endDate": "March 2024",
+    "experiences": [
+      "Created articles of 600-1000 words with various themes such as information, promotions, tips, recommendations and product descriptions for the website.",
+      "Create 26 SEO-friendly articles.",
+      "Uploaded 24 articles to the website and get 11,250 views in two months.",
+      "Input as many as 144 products used WordPress by implemented SEO to increase product visibility on the website."
+    ],
+    "imageSrc": "history/kilikili.png"
+  },
+  {
+    "role": "Social Media Specialist",
+    "organisation": "Kili Kili Adventure",
+    "startDate": "September 2023  ",
+    "endDate": "March 2024",
+    "experiences": [
+      "Created content with various themes on social media Instagram, Youtube, and Tiktok as many as 35 designs content and 52 videos with an interesting captions.",
+      "Getting as many as 600 to 29.8 thousand viewer on the videos that have been uploaded."
+    ],
+    "imageSrc": "history/kilikili.png"
+  },
+  {
+    "role": "Selling Skill Lecture Assistant",
+    "organisation": "Politeknik APP JAKARTA",
+    "startDate": "2023",
+    "endDate": "2023",
+    "experiences": ["Taught 2 credits of selling skill courses with 16 students with 100% passing grades", "Mastering sales techniques, negotiation, business communication and after sales service."],
+    "imageSrc": "history/logoapp.png"
+  },
+  {
+    "role": "Advertising Photography Lecture Assistant",
+    "organisation": "Politeknik APP JAKARTA",
+    "startDate": "2022",
+    "endDate": "2022",
+    "experiences": ["Taught 1 credits of advertising photography courses with 19 students with 100% passing grades", "Mastering Photography techniques, Cinematography, and Commercial photography."],
+    "imageSrc": "history/logoapp.png"
+  }
+]
