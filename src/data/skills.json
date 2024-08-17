@@ -1,0 +1,42 @@
+[
+  {
+    "title": "WORD",
+    "imageSrc": "skills/word.png"
+  },
+  {
+    "title": "EXCEL",
+    "imageSrc": "skills/excel.png"
+  },
+  {
+    "title": "POWERPOINT",
+    "imageSrc": "skills/powerpoint.png"
+  },
+  {
+    "title": "CANVA",
+    "imageSrc": "skills/canva.png"
+  },
+  {
+    "title": "PHOTOSHOP",
+    "imageSrc": "skills/photosop.jpeg"
+  },
+  {
+    "title": "CAPCUT",
+    "imageSrc": "skills/capcut.png"
+  },
+  {
+    "title": "CORELDRAW",
+    "imageSrc": "skills/coreldraw.png"
+  },
+  {
+    "title": "LIGHTROOM",
+    "imageSrc": "skills/lightroom.png"
+  },
+  {
+    "title": "WORDPRESS",
+    "imageSrc": "skills/wordpress.png"
+  },
+  {
+    "title": "VEGAS",
+    "imageSrc": "skills/vegas.jpeg"
+  }
+]

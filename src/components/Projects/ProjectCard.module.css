@@ -1,0 +1,159 @@
+@import '../../vars.css';
+
+.container {
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
+  box-shadow: 0 16px 14px 0 #04152d;
+  padding: 18px 24px;
+  max-width: 345px;
+  min-height: 400px; /* Tambahkan minimum height untuk memastikan ukuran card sama */
+  overflow: hidden;
+}
+.descriptionContainer {
+  flex-grow: 1; /* Memastikan kontainer deskripsi mengambil ruang yang tersedia */
+  margin-bottom: 10px;
+}
+
+.description {
+  max-height: 97px; /* Batas tinggi maksimal untuk deskripsi */
+  overflow: hidden;
+  text-overflow: ellipsis;
+  min-height: 50px; /* Menambahkan minimum height untuk menjaga ukuran tetap sama */
+}
+
+.description.expanded {
+  max-height: none;
+  overflow: visible;
+}
+
+.bottomRow {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.learnMoreButton {
+  background: none;
+  border: none;
+  color: #3498db;
+  cursor: pointer;
+  font-size: 14px;
+  padding: 0;
+  margin-top: 5px;
+  white-space: nowrap;
+}
+
+.image {
+  width: 100%;
+  height: 200px; /* Tetapkan tinggi tetap */
+  object-fit: cover; /* Memastikan gambar sesuai dalam kotak */
+  margin-bottom: 26px;
+}
+
+/* Modal Styles */
+.modalOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.modalContent {
+  position: relative;
+  padding: 10px;
+  background: white;
+  border-radius: 10px;
+}
+
+.modalImage {
+  max-width: 90vw;
+  max-height: 90vh;
+  object-fit: contain;
+}
+
+.title {
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.description {
+  margin-top: 6px;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.skills {
+  width: 100%;
+  margin-top: 14px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 6px;
+  list-style: none;
+}
+
+.skill {
+  font-size: 22px;
+  font-weight: 400;
+  border-radius: 100px;
+  background: var(--color-dark);
+  padding: 2px 22px;
+}
+
+.links {
+  width: 100%;
+  margin-top: 26px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.link {
+  text-decoration: none;
+  color: var(--color-text);
+  font-size: 30px;
+  font-weight: 600;
+  border-radius: 100px;
+  background: var(--color-primary);
+  padding: 1px 22px;
+}
+
+/* Close Button */
+.closeButton {
+  position: absolute;
+  top: 20px;
+  right: -60px;
+  background: red;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.closeButton:hover {
+  color: black;
+}
+
+@media screen and (max-width: 830px) {
+  .closeButton {
+    position: absolute;
+    top: 10px; /* Menempatkan 10px dari bagian atas elemen induk */
+    right: 10px; /* Menempatkan 10px dari bagian kanan elemen induk */
+    background: red;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    transform: translateY(-100%);
+  }
+}
